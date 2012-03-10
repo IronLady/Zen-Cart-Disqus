@@ -1,0 +1,27 @@
+Package Name : Zen Cart Disqus Comments
+Author: IronLady (http://www.samuelsena.com)
+License: GPL 2.0
+Version: 1.3
+
+NOTICE!!
+
+ALWAYS DO SOME BACKUP BEFORE DO ANYTHING WITH THIS MODULE....
+
+1. Installation
+
+- Extract the file
+- Rename YOUR_ADMIN to your admin folder and rename YOUR_TEMPLATE to your current template
+- Upload all the files to your site directory
+- Run the disqus_install.sql
+- Configure the Module
+- Enjoy!
+
+For further instruction please follow this link : http://www.samuelsena.com/zen-cart-disqus-comment-system
+
+Changelog :
+
+v.1.3
+Add disqus_install.sql and disqus_uninstall.sql to support older version of zen cart
+
+v.1.2
+Fixed disqus_install.sql to make sure the installation process is safe.
